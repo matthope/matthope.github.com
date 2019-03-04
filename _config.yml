@@ -1,0 +1,8 @@
+title: matthope.github.com
+description: Matt's open source contributions... on github
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
